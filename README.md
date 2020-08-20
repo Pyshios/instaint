@@ -94,10 +94,11 @@ git clone git@github.com:Pyshios/instaint.git
 3) It will generate TXT file with all information 
 
 Simple chose a profile
-<img src=“https://ibb.co/Cz0Npwq">
-At the end it will generate a TXT file with all information
+![header image](https://ibb.co/Cz0Npwq.png)
 
-<img src=“https://ibb.co/6YhqgH9"> 
+At the end it will generate a TXT file with all information
+![header image](https://ibb.co/6YhqgH9.png)
+
 
 
 
