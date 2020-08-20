@@ -94,10 +94,10 @@ git clone git@github.com:Pyshios/instaint.git
 3) It will generate TXT file with all information 
 
 Simple chose a profile
-![header image](https://ibb.co/Cz0Npwq.png)
+![header image](https://i.ibb.co/FK7Nkh9/git-2.png)
 
 At the end it will generate a TXT file with all information
-![header image](https://ibb.co/6YhqgH9.png)
+![header image](https://i.ibb.co/D4Xj59c/git3.png)
 
 
 
