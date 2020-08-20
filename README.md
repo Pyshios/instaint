@@ -22,14 +22,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/raphel-levy-828739198/]
 
 
 
 <!-- PROJECT LOGO -->
 
 
-  <h3 align="center">INSTA INT</h3><!-- TABLE OF CONTENTS -->
+
 ## Table of Contents
 
 * [About the Project](#about-the-project)
@@ -93,10 +93,10 @@ git clone git@github.com:Pyshios/instaint.git
 2) Google will automaticly find those photos and scrape it
 3) It will generate TXT file with all information 
 
-Simple chose a profile
+
 ![header image](https://i.ibb.co/FK7Nkh9/git-2.png)
 
-At the end it will generate a TXT file with all information
+
 ![header image](https://i.ibb.co/D4Xj59c/git3.png)
 
 
@@ -121,14 +121,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 
 
