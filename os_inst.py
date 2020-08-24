@@ -21,7 +21,9 @@ print(" _|_ | | _>  |_ (_| _|_ | \| | ")
 
 
 
-driver = webdriver.Firefox(executable_path ="C:\\Users\\E3\\Desktop\\cd\\geckodriver.exe")
+# driver = webdriver.Firefox(executable_path ="C:\\Users\\E3\\Desktop\\cd\\geckodriver.exe") Executable Path example
+driver = webdriver.Firefox()
+
 slist = list()
 class itim():
     fol_dict = dict
