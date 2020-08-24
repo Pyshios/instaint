@@ -71,6 +71,10 @@ git clone git@github.com:Pyshios/instaint.git
 2) Google will automaticly find those photos and scrape it
 3) It will generate TXT file with all information 
 
+
+
+##CLICK TO WATCH
+
 [![IMAGE ALT TEXT](https://i.ibb.co/ZSxMgrw/you-ico.png)](http://www.youtube.com/watch?v=5ucdRtYVjrs "Insta-INT")
 
 
