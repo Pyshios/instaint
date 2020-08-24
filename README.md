@@ -28,7 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 I am a studying cyber security and by my self i know that when you are trying to break in , the most import thing in information 
 This project its functional meaning that my code its not the best but it works , and if this dont make you happy youre invited to it better :)
 
@@ -71,6 +70,8 @@ git clone git@github.com:Pyshios/instaint.git
 1) Select wich profile 
 2) Google will automaticly find those photos and scrape it
 3) It will generate TXT file with all information 
+
+[![IMAGE ALT TEXT](https://i.ibb.co/ZSxMgrw/you-ico.png)](http://www.youtube.com/watch?v=5ucdRtYVjrs "Insta-INT")
 
 
 ![header image](https://i.ibb.co/FK7Nkh9/git-2.png)
